@@ -5,6 +5,9 @@ import tkinter as tk
 import customtkinter as ctk
 
 
+# TODO: Make the stopwatch working
+# TODO: Display the WPM at the end of the test
+
 root = tk.Tk()
 root.geometry('1200x800')
 root.title('Typing Speed')
